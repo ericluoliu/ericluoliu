@@ -1,7 +1,7 @@
 About Me
 ==========
 - 🔭 I’m currently working on Apache's apisix-java-plugin-runner
-- 🌱 I’m currently learning Backend, APISIX, TraffiC Management
+- 🌱 I’m learning Backend, APISIX, Traffic Management
 - 💬 Ask me about anything
 - 📫 How to reach me: erikiceliu@gmail.com
 - 😄 Pronouns: He/Him
