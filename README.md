@@ -7,11 +7,12 @@ About Me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have never had a bloody nose
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericluoliu)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericluoliu&hide=javascript,css,scss,html&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericluoliu)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ericluoliu" alt="Eric Liu Profile Visits" /></p>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericluoliu&show_icons=true" alt="ericliu_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericluoliu&layout=compact" alt="ericliu_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ericluoliu&" alt="ericliu_stats"/>
+</p>
 
 <!--
 **ericluoliu/ericluoliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
