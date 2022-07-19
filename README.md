@@ -7,7 +7,7 @@ About Me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have never had a bloody nose
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ericluoliu" alt="Eric Liu Profile Visits" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericluoliu" alt="Eric Liu Profile Visits" /></p>
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericluoliu&show_icons=true" alt="ericliu_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericluoliu&layout=compact" alt="ericliu_stats" />
