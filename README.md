@@ -1,12 +1,8 @@
 About Me
 ==========
 - 🔭 I’m currently working on Apache's apisix-java-plugin-runner
-- 🌱 I’m learning Backend, APISIX, Traffic Management
-- 💬 Ask me about anything
 - 📫 How to reach me: erikiceliu@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have never had a bloody nose
-
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericluoliu&show_icons=true" alt="ericliu_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericluoliu&layout=compact" alt="ericliu_stats" />
