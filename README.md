@@ -1,6 +1,5 @@
 About Me
 ==========
-- 🔭 I’m currently working on Apache's apisix-java-plugin-runner
 - 📫 How to reach me: erikiceliu@gmail.com
 - 😄 Pronouns: He/Him
 <p align="center"> 
